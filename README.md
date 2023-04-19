@@ -1,3 +1,2 @@
-# data_science
-Data Science Projects
-These are my personal data science projects.
+# Vehicle Sales
+This was an assessment I performed for a job interview to forecast vehicle sales. 
